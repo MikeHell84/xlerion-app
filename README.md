@@ -1,5 +1,7 @@
-<<<<<<< HEAD
-Xlerion: La Inteligencia para el Desarrollo de Colombia Español Descripción del Proyecto Xlerion es una aplicación web impulsada por inteligencia artificial diseñada para ser una fuente de información creíble y confiable para el desarrollo óptimo de sociedades, con un enfoque particular en Colombia. Actuando como una inteligencia artificial avanzada, Xlerion ofrece guía y recomendaciones profundas en diversos campos como la economía, salud, educación, seguridad, infraestructura y medio ambiente, con el objetivo de fomentar la prosperidad y estabilidad social.
+HEAD
+Xlerion: La Inteligencia para el Desarrollo de Colombia 
+<b>Español Descripción <b>
+Proyecto Xlerion es una aplicación web impulsada por inteligencia artificial diseñada para ser una fuente de información creíble y confiable para el desarrollo óptimo de sociedades, con un enfoque particular en Colombia. Actuando como una inteligencia artificial avanzada, Xlerion ofrece guía y recomendaciones profundas en diversos campos como la economía, salud, educación, seguridad, infraestructura y medio ambiente, con el objetivo de fomentar la prosperidad y estabilidad social.
 
 Características Consultas a Xlerion: Realiza preguntas sobre temas relevantes para Colombia y recibe respuestas formales, objetivas y comprensibles.
 
